@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">20221025-IvanWilliams-NYCSchools</string>
+    <string name="sat_takers">Takers</string>
+    <string name="sat_math">Math score</string>
+    <string name="sat_read">Read score</string>
+    <string name="sat_write">Write score</string>
+    <string name="sat_na">NA</string>
+    <string name="sat_details">Details</string>
+</resources>
